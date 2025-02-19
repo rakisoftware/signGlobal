@@ -1,0 +1,10 @@
+fake-useragent~=2.0.3
+eth_abi~=5.2.0
+eth-utils~=5.2.0
+eth-account~=0.11.2
+web3~=6.19.0
+curl_cffi~=0.9.0
+Faker~=36.1.1
+loguru~=0.7.3
+aiosqlite~=0.21.0
+rich~=13.9.4
