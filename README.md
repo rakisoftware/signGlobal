@@ -1,4 +1,5 @@
 Настройка скрипта:
+
 pip install -r requirements.txt
 
 В data/private_keys.txt вставляем приватники, по одному на строчку
